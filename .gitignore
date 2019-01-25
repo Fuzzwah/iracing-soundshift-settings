@@ -1,0 +1,6 @@
+*
+Sounds/
+!*.ini
+!*.wav
+!*.reg
+!README.md
